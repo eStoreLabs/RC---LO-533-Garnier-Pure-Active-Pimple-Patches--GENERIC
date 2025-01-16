@@ -501,6 +501,7 @@ $turkus: #469B92;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
     gap: 30px;
     &__img {
       @include img;
