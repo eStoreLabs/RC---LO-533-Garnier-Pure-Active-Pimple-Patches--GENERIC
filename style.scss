@@ -504,7 +504,7 @@ $turkus: #469B92;
     gap: 30px;
     &__img {
       @include img;
-      display: block;
+      height: 100%;
       transition: 0.5s all;
       &:hover {
         transform: scale(1.1);
