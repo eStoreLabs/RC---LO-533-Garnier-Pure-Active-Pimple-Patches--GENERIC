@@ -509,6 +509,12 @@ $turkus: #469B92;
       &:hover {
         transform: scale(1.1);
       }
+      &--cruelty {
+        aspect-ratio: 231/52;
+      }
+      &--vegan {
+        aspect-ratio: 199/62;
+      }
     }
   }
 
